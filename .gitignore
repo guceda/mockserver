@@ -1,0 +1,39 @@
+# General
+*~
+storybook-static/
+lib/docs/
+lib/dist/
+.history
+
+#Gradle
+.gradle/
+build/
+reports/
+
+# IntelliJ
+.idea/
+.nyc_output
+*.iml
+*.iws
+out/
+
+# VisualStudioCode
+.vscode
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# MacOS
+*.DS_Store
+
+#node
+node_modules
+
+#webpack
+/dist
+/tmp
+
+#test?
+coverage/
